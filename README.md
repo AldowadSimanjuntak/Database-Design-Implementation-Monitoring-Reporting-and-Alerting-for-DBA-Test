@@ -2,7 +2,7 @@
 
 This repository contains the codebase for my final internship project at Kalbe Nutritional. The project aimed to showcase my skills in designing and implementing a PostgreSQL database, encompassing various aspects such as data normalization, schema creation, and query optimization.
 
-## Project Highlights
+## Highlight 
 
 - **PostgreSQL Database Design:** I meticulously designed the database to ensure optimal performance, data integrity, and scalability.
 
