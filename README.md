@@ -1,4 +1,4 @@
-# Final Internship Project - Kalbe Nutritional
+## Final Internship Project - Kalbe Nutritional
 
 This repository contains the codebase for my final internship project at Kalbe Nutritional. The project aimed to showcase my skills in designing and implementing a PostgreSQL database, encompassing various aspects such as data normalization, schema creation, and query optimization.
 
@@ -18,6 +18,7 @@ This repository contains the codebase for my final internship project at Kalbe N
 
 For more details on the project, including code implementation, database schema, and documentation, please refer to the [repository](https://github.com/AldowadSimanjuntak/Database-Design-Implementation-Monitoring-Reporting-and-Alerting-for-DBA-Test).
 
+## Contribution
 Feel free to explore the codebase and documentation to gain a deeper understanding of the project.
 
 For any questions or further information, please reach out me
